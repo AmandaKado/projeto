@@ -5,3 +5,10 @@
 body {
     margin: 0;
 }
+
+.sub {
+    background-color: #A300FF;
+    text-align: left;
+    padding: 20px;
+    margin: 30px;
+}
