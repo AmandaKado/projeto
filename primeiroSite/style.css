@@ -1,16 +1,25 @@
 * {
     box-sizing: border-box;
+    background-color: #000000;
 }
 
 body {
-    margin: 5px;
+    margin: 100px;
+}
+
+h1 {
+    color: #450099;
+    text-align: center;
+    font-family: 'square peg';
+    text-transform: uppercase;
 }
 
 p {
-    color: #0000ff;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+    color: #AA00ff;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
     text-align: justify;
     letter-spacing: 2px;
-    text-shadow: 1px 1px 1px ;
+    text-shadow: 1px 1px 3px #000000;
+    
 }
